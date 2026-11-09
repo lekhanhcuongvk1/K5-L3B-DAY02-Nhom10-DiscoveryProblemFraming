@@ -12,7 +12,7 @@
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
-| 1 | | | | |
+| 1 | Trần Bảo Long| 2A202604012 | Thành viên |https://github.com/BLong1501|
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
