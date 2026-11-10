@@ -54,8 +54,6 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 **Điều mình học được từ phần nhóm:**
 
-**Điều mình học được từ phần nhóm:**
-
 - Khi chọn problem, cần dựa vào bằng chứng thực tế, mức độ ảnh hưởng và tính khả thi, không chỉ vì ý tưởng hấp dẫn.
 - Phải xác định đúng bottleneck trước khi đề xuất giải pháp và biết tiếp thu phản biện để điều chỉnh hướng tiếp cận.
 - Không phải vấn đề nào cũng cần AI; nên ưu tiên giải pháp đơn giản như Rule nếu đã đáp ứng được nhu cầu.
