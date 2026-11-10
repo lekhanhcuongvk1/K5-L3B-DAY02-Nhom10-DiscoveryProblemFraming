@@ -126,3 +126,8 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 - `group_report.md` mục 2.1 (dòng #9–#12), mục 3.1–3.2, mục 5 (phản biện nhận được), mục 6.4, mục 7.
 
 **Điều mình học được từ phần nhóm:**
+
+- **Tư duy kiểm chứng thực tế thay vì cảm tính:** Khi dẫn buổi Assumption Map, tôi học được cách bóc tách một ý tưởng thành các giả định rủi ro cụ thể và áp dụng The Mom Test — phỏng vấn đào sâu vào hành vi quá khứ thay vì hỏi ý kiến tương lai, tránh bị người dùng "mớm cung" hoặc trả lời xã giao.
+- **Giá trị của phản biện và sự đồng thuận vì mục tiêu chung:** Dù card #10 của tôi đồng điểm cao nhất (31 điểm), nhưng qua phản biện của nhóm về rào cản nhận diện file scan/ảnh, tôi nhận ra tính khả thi (Feasibility) mới là yếu tố quyết định; việc sẵn sàng lùi lại để ủng hộ bài toán #1 đã giúp nhóm tập trung nguồn lực và về đích hiệu quả.
+- **Tư duy Google PAIR trong thiết kế giải pháp:** Nhận thức rõ ràng sự khác biệt giữa hỗ trợ (Augment) và giao việc tự động (Automate); hiểu rằng kiểu sai "báo nhầm" (hiển thị giá thấp hơn giá thanh toán) độc hại hơn nhiều so với "bỏ sót" vì nó trực tiếp phá vỡ lòng tin của khách hàng.
+- **Tầm quan trọng của tiêu chí đánh giá (Eval):** Một giải pháp công nghệ không thể vận hành nếu thiếu bộ tiêu chí đạt / không đạt định lượng rõ ràng (độ khớp giá 100%, đúng giỏ quen, quán còn mở). Bộ tiêu chí eval chính là cơ sở vững chắc nhất để thiết lập ngưỡng dừng (stop condition) khi làm sản phẩm.
